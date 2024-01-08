@@ -27,21 +27,40 @@ This dashboard give insight about the rate of attrition in different departmanen
 `Single` 
 `Marrried`
 `Divorced`
+
+![Slicer1](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/1.png?raw=true)
+
 ##### Slicer 2- Over time
 `Yes` `No`
+
+![Slicer2](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/2.png?raw=true)
+
 ##### Slicer 3 -Job role
+![Slicer3](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/3.png?raw=true)
+
 `Healthcare Representative`
+
 `Human Resources`
+
 `Laboratory Technician`
+
 `Manager`
+
 `Manufacturing Director`
+
 `Research Director`
+
 `Research Scientist`
+
 `Sales Executive`
+
 `Sales Representative`
+
 ##### Slicer 4 - Gender
+![Slicer1](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/4.png?raw=true)
 `Male`
 `Female`
+
  Step 10- Some cards were added to indicate the key performance 
   ###### Card 1- Total employees
   `Shows the total number of employees`
