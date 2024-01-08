@@ -5,7 +5,10 @@
 This Power BI report is helping us understand and tackle employee attrition in hte organization. It looks into important details like why some might leave, how satisfied people are with their jobs, and other key insights. The colorful charts make it easy to understand the data.
 
 ### Dashboard Link
-[Check out the Attrition Report Dashboard](https://app.powerbi.com/links/zJ0lwaAeVs?ctid=0496dd89-b3a0-41bb-a4f2-bf7a03d66176&pbi_source=linkShare)
+
+[Open Power BI Dashboard](https://app.powerbi.com/links/zJ0lwaAeVs?ctid=0496dd89-b3a0-41bb-a4f2-bf7a03d66176&pbi_source=linkShare)
+
+
 
 ## Problem Statement
 
@@ -87,3 +90,15 @@ This dashboard gives us insights of employee attrition, helping us identify who 
 12. **Matrix Table** Shows the job satisfaction rating and attrition count of different job role.
     
 ![Matrix Table](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/10.png?raw=true)
+
+13. **Column chart**: Shows the attrition number by total working years.
+
+![Column Chart](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/11.png?raw=true)
+
+14. **Donut Chart** Shows the attrition by different salary groups.
+
+![Donut Chart](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/12.png?raw=true)
+
+15. **Bar Chart**: Shows the attrition on the basis of distance travelled by the employees.
+
+![Bar Chart](https://github.com/mukuldiwakar/Attrition-insights/blob/main/I/Images/13.png?raw=true)
