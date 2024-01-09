@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Power BI report is helping us understand and tackle employee attrition in hte organization. It looks into important details like why some might leave, how satisfied people are with their jobs, and other key insights. The colorful charts make it easy to understand the data.
+This Power BI report is helping us understand and tackle employee attrition in the organization. It looks into important details like why some might leave, how satisfied people are with their jobs, and other key insights. The colorful charts make it easy to understand the data.
 
 ### Dashboard Link
 
